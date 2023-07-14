@@ -1,5 +1,5 @@
-    # A1 Notes
-    Derek Maxin (dmaxin 20828472)
+    Note Taking App
+    Derek Maxin
  
     ## Setup
     * Windows 10
